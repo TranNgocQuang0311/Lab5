@@ -210,6 +210,10 @@ ul {
         margin-top: 10px;
     }
 
+    .product-info h3{
+        font-size: 25px;
+    }
+    
     .product-price {
         font-weight: bold;
         color: #958100;
