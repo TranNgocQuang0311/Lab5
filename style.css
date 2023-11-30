@@ -138,20 +138,6 @@ ul {
         border-radius: 50%;
     }
 
-    #traxanh h3 a, 
-    #traden h3 a, 
-    #traphonhi h3 a,
-    #trathaomoc h3 a{
-            color:#998500;   
-    }
-
-    #traxanh h3 a:hover, 
-    #traden h3 a:hover, 
-    #traphonhi h3 a:hover,
-    #trathaomoc h3 a:hover{
-            color:#c5d700be;   
-    }
-
     .taste {
         min-height: 100vh;
         background: url(../img/background-taste.webp);
@@ -205,23 +191,6 @@ ul {
         padding-top: 25px;
         font-family:Arial, Helvetica, sans-serif;
         color:#2d2d00
-    }
-
-    .review {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .bg-review {
-        background: url(../img/background-review.png) no-repeat;
-        padding: 3%;
-    }
-
-    .bg-review h2 {
-        color: #fff;
-        font-size: 35px;
-        line-height: 1.14286em;
-        font-weight: bolder;
     }
     /** product page **/
 
